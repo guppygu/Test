@@ -1,0 +1,18 @@
+\babel@toc {german}{}
+\contentsline {section}{Einleitung}{1}
+\contentsline {section}{\numberline {1}First section}{1}
+\contentsline {subsection}{\numberline {1.1}First subsection}{2}
+\contentsline {subsection}{\numberline {1.2}Second subsection}{2}
+\contentsline {subsection}{\numberline {1.3}Third subsection}{3}
+\contentsline {section}{\numberline {2}Second section}{3}
+\contentsline {subsection}{\numberline {2.1}First subsection}{4}
+\contentsline {section}{\numberline {3}Fazit}{6}
+\cftpagenumbersoff {section}
+\contentsline {section}{Anhang}{I}
+\cftpagenumberson {section}
+\contentsline {section}{\numberline {A}Hintergrund}{I}
+\contentsline {subsection}{\numberline {A.1}Hintergrund A}{I}
+\contentsline {subsection}{\numberline {A.2}Hintergrund B}{II}
+\contentsline {section}{\numberline {B}Quellenverzeichnis}{IV}
+\contentsline {section}{Abbildungsverzeichnis}{IV}
+\contentsline {section}{Tabellenverzeichnis}{IV}
